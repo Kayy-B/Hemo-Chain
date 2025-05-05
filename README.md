@@ -1,4 +1,8 @@
 # HemoChain
+'Hemo' means Hemoglobin and 'Chain' means Blockchain. 
+Decentralized blood donation system and bring transparency to the information of blood inventory and donor data.
+Establish a direct communication pathway between the receiver, doctor, and donor.
+Leverage smart contracts to authenticate and automate the process of donor eligibility verification, donor registration, blood bag registration, blood consumption status monitoring, compatibility mapping, and certificate creation in the blood donation system.
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
